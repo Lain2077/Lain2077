@@ -4,8 +4,6 @@
 </p>
 
 <h3 align="center">
-        <samp>&gt; I am
                 <b><a style="color: #bc748b">𝑀𝒾𝓃𝒶</a></b>
-        </samp>
 </h3>
 
